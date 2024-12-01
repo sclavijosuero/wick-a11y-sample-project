@@ -1,0 +1,26 @@
+{
+  "name": "wick-a11y-sample-project",
+  "version": "1.0.0",
+  "description": "Example of Cypress project using wick-a11y accessibility open-source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sclavijosuero/wick-a11y-sample-project.git"
+  },
+  "keywords": [
+    "accessibility"
+  ],
+  "author": "Sebastian Clavijo Suero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sclavijosuero/wick-a11y-sample-project/issues"
+  },
+  "homepage": "https://github.com/sclavijosuero/wick-a11y-sample-project#readme",
+  "devDependencies": {
+    "cypress": "^13.16.0",
+    "wick-a11y": "^1.2.2"
+  }
+}
