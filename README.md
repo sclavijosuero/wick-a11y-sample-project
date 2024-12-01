@@ -12,7 +12,7 @@ Also provides audible information for accessibility issues at the suite level, t
 
 ## Video Tutorial Slides
 
-Your statement appears to be correct. The slides of the Video Tutorial presentation are available in the repository as a PDF at the specified path: [tutorial-slides/wick-a11y-video-tutorial.pdf](/tutorial-slides/wick-a11y-video-tutorial.pdf).
+The slides of the Video Tutorial presentation are available in the repository as a PDF at [tutorial-slides/wick-a11y-video-tutorial.pdf](/tutorial-slides/wick-a11y-video-tutorial.pdf).
 
 
 ## License
