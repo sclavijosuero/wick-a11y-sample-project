@@ -1,6 +1,7 @@
 # wick-a11y-sample-project
 
-Welcome to the Wick-a11y Sample Project repository. This project serves as a demonstration of the accessibility features and best practices using the **wick-a11y** Accessibility Plugin, as showcased in the [WICK-A11Y ACCESSIBILITY PLUGIN VIDEO TUTORIAL](https://www.youtube.com/watch?v=WpdrXU-6xzc "WICK-A11Y ACCESSIBILITY PLUGIN VIDEO TUTORIAL").
+Welcome to the Wick-a11y Sample Project repository. This project serves as a demonstration of the accessibility features and best practices using the **wick-a11y** Accessibility Plugin, as showcased in the ["WICK-A11Y ACCESSIBILITY PLUGIN VIDEO TUTORIAL"](https://www.youtube.com/watch?v=WpdrXU-6xzc "WICK-A11Y ACCESSIBILITY PLUGIN VIDEO TUTORIAL").
+&nbsp;
 
 ![WICK-A11Y ACCESSIBILITY PLUGIN VIDEO TUTORIAL COVER IMAGE](/tutorial-slides/cover.png)
 
