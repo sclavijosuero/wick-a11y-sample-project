@@ -1,6 +1,6 @@
 {
   "name": "wick-a11y-sample-project",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Example of Cypress project using wick-a11y accessibility open-source",
   "main": "index.js",
   "scripts": {
