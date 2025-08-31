@@ -16,6 +16,21 @@ Also provides audible information for accessibility issues at the suite level, t
 
 The slides of the Video Tutorial presentation are available in the repository as a PDF at [tutorial-slides/wick-a11y-video-tutorial.pdf](/tutorial-slides/wick-a11y-video-tutorial.pdf).
 
+## Changelog
+
+### 1.2.0
+
+- Support of Cypress v15
+
+### 1.1.0
+
+- Support of cypress-axe v1.7.0
+
+### 1.0.0
+
+- Support of Cypress v12-v14
+- Support of cypress-axe v1.5.0
+
 
 ## License
 

@@ -3,6 +3,12 @@ const { defineConfig } = require("cypress");
 const addAccessibilityTasks = require('wick-a11y/accessibility-tasks');
 
 module.exports = defineConfig({
+
+  retries: {
+    openMode: 1,
+    runMode: 0,
+  },
+
   env: {
     enableAccessibilityVoice: true
   },
