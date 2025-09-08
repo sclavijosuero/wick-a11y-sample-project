@@ -21,6 +21,6 @@
   "homepage": "https://github.com/sclavijosuero/wick-a11y-sample-project#readme",
   "devDependencies": {
     "cypress": "^15.0.0",
-    "wick-a11y": "^2.2.0"
+    "wick-a11y": "^2.3.0"
   }
 }
