@@ -18,7 +18,7 @@ The slides of the Video Tutorial presentation are available in the repository as
 
 ## Changelog
 
-### 1.2.0
+### 1.3.0
 
 - Use wick-a11y v2.3.0
 - Example of analysis with WCAG 2.2 AAA
