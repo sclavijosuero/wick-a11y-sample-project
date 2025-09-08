@@ -20,6 +20,11 @@ The slides of the Video Tutorial presentation are available in the repository as
 
 ### 1.2.0
 
+- Use wick-a11y v2.3.0
+- Example of analysis with WCAG 2.2 AAA
+
+### 1.2.0
+
 - Support of Cypress v15
 
 ### 1.1.0
