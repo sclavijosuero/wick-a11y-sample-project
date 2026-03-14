@@ -3,6 +3,16 @@ const { defineConfig } = require("cypress");
 const addAccessibilityTasks = require('wick-a11y/accessibility-tasks');
 
 module.exports = defineConfig({
+  allowCypressEnv: false,
+  // Both configurations work (env or expose) but env will override expose
+  // env: {
+  //   enableAccessibilityVoice: true,
+  //   generateReport: 'basic',
+  // },
+  // expose: {
+  //   enableAccessibilityVoice: true,
+  //   generateReport: 'basic',
+  // },
 
   retries: {
     openMode: 1,
