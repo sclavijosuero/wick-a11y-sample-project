@@ -18,6 +18,12 @@ The slides of the Video Tutorial presentation are available in the repository as
 
 ## Changelog
 
+### 2.0.0
+
+- Migrated to Cypress v15.11.0
+- Migrated to use wick-a11y v3.0.1
+- Support of new environment variables via `cy.env()` and `Cypress.expose()`
+
 ### 1.3.0
 
 - Use wick-a11y v2.3.0
